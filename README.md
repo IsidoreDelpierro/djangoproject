@@ -1,2 +1,2 @@
 # djangoproject
-Gentle intro into Django 
+Baby steps in Django with MySQL
